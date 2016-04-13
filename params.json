@@ -1,0 +1,6 @@
+{
+  "name": "FPLBase-tlh",
+  "tagline": "Cross-platform low-level rendering and I/O library (fork)",
+  "body": "Fork of http://google.github.io/fplbase. A low-level rendering / input / asset management cross-platform C++ library.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
